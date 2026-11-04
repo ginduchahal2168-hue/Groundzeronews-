@@ -1,0 +1,8 @@
+{
+  "name": "Ground Zero News",
+  "description": "Truth First. News Everywhere. AI-powered multilingual digital news network with automated RSS collection, fact verification, 19-language AI translation, and editorial control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

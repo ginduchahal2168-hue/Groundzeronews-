@@ -1,0 +1,816 @@
+{
+  "articles": [
+    {
+      "id": "gzn-lead-001",
+      "originalLanguage": "en",
+      "currentLanguage": "en",
+      "headline": "Global Clean Energy Treaty Ratified: 48 Nations Commit to Accelerated Grid Modernization by 2030",
+      "summary": "In an unprecedented multilateral diplomatic breakthrough in Geneva, 48 industrial and developing nations have signed the landmark Clean Grid Compact. The accord mandates verified cross-border power transmission standards and creates a $120 billion cooperative fund for high-voltage direct current interconnects, marking the fastest negotiated climate infrastructure framework in United Nations history.",
+      "fullBody": "GENEVA — Delegations from 48 member states formally ratified the Global Clean Grid Compact late Tuesday evening, concluding nine months of intense diplomatic negotiations. The accord is recognized by international observers as a pivotal shift from voluntary emission pledges toward binding physical infrastructure deployment.\n\nThe treaty establishes legally enforceable timelines for modernizing regional electric grids to absorb intermittent renewable energy. Notably, participating nations agreed to standardize ultra-high-voltage direct current (UHVDC) interconnectors, enabling surplus solar power from equatorial zones to transmit seamlessly into heavy industrial corridors across Eurasia and Africa.\n\nDr. Elena Rostova, Special Envoy for Energy Security, emphasized during the plenary session: \"For decades, transition bottlenecks occurred not in generation, but in transmission capacity. Today's ratification removes bureaucratic tariffs on multinational clean power corridors and provides mutual stability against geopolitical energy shocks.\"\n\nA dedicated $120 billion multilateral financing pool will underwrite early-stage interconnector engineering in South Asia, North Africa, and Eastern Europe, with initial disbursements scheduled for the second quarter of 2027. Sovereign debt guarantees provided by multilateral development banks will insulate recipient nations from currency fluctuations.",
+      "category": "World News",
+      "tags": [
+        "Energy Treaty",
+        "Geneva Summit",
+        "UHVDC",
+        "Infrastructure",
+        "Climate Accord"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Delegates gather in Geneva following the unanimous vote on the Clean Grid Modernization Compact.",
+      "imageCredit": "UN Press Corps / Associated Media / Public Domain",
+      "sourceName": "International News Pool / Geneva Bureau",
+      "sourceUrl": "https://www.reuters.com/sustainability",
+      "author": "Ground Zero Diplomatic Bureau",
+      "isAiGenerated": true,
+      "verificationStatus": "confirmed",
+      "status": "published",
+      "isBreaking": true,
+      "isFeatured": true,
+      "isTrending": true,
+      "viewCount": 18452,
+      "readingTimeMinutes": 4,
+      "publishedAt": "2026-11-04T06:48:49.268Z",
+      "updatedAt": "2026-11-04T07:34:37.185Z",
+      "commentsCount": 14,
+      "translations": {
+        "en": {
+          "language": "en",
+          "headline": "Global Clean Energy Treaty Ratified: 48 Nations Commit to Accelerated Grid Modernization by 2030",
+          "summary": "In an unprecedented multilateral diplomatic breakthrough in Geneva, 48 industrial and developing nations have signed the landmark Clean Grid Compact. The accord mandates verified cross-border power transmission standards and creates a $120 billion cooperative fund.",
+          "seoTitle": "Global Clean Energy Treaty Ratified: 48 Nations Modernize Grid by 2030",
+          "seoDescription": "48 nations sign the historic Clean Grid Compact in Geneva with a $120B fund for international power grids.",
+          "keywords": [
+            "clean energy treaty",
+            "geneva compact",
+            "power grid 2030"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "pa": {
+          "language": "pa",
+          "headline": "ਗਲੋਬਲ ਕਲੀਨ ਐਨਰਜੀ ਸੰਧੀ ਦੀ ਪੁਸ਼ਟੀ: 48 ਦੇਸ਼ਾਂ ਨੇ 2030 ਤੱਕ ਗਰਿੱਡ ਆਧੁਨਿਕੀਕਰਨ ਦਾ ਲਿਆ ਅਹਿਦ",
+          "summary": "ਜਿਨੀਵਾ ਵਿਖੇ ਇੱਕ ਇਤਿਹਾਸਕ ਬਹੁ-ਪੱਖੀ ਕੂਟਨੀਤਕ ਸਫਲਤਾ ਵਿੱਚ, 48 ਉਦਯੋਗਿਕ ਅਤੇ ਵਿਕਾਸਸ਼ੀਲ ਦੇਸ਼ਾਂ ਨੇ ਕਲੀਨ ਗਰਿੱਡ ਸਮਝੌਤੇ 'ਤੇ ਦਸਤਖਤ ਕੀਤੇ ਹਨ। ਇਹ ਸਮਝੌਤਾ ਸਰਹੱਦ ਪਾਰ ਬਿਜਲੀ ਸੰਚਾਰ ਦੇ ਮਿਆਰ ਨਿਰਧਾਰਤ ਕਰਦਾ ਹੈ ਅਤੇ 120 ਅਰਬ ਡਾਲਰ ਦਾ ਫੰਡ ਸਥਾਪਤ ਕਰਦਾ ਹੈ।",
+          "seoTitle": "ਕਲੀਨ ਐਨਰਜੀ ਸੰਧੀ: 48 ਦੇਸ਼ਾਂ ਵੱਲੋਂ ਗਰਿੱਡ ਦਾ ਆਧੁਨਿਕੀਕਰਨ",
+          "seoDescription": "ਜਿਨੀਵਾ ਵਿੱਚ 48 ਦੇਸ਼ਾਂ ਨੇ ਕਲੀਨ ਗਰਿੱਡ ਸਮਝੌਤੇ 'ਤੇ ਦਸਤਖਤ ਕੀਤੇ।",
+          "keywords": [
+            "ਸਵੱਛ ਊਰਜਾ",
+            "ਜਿਨੀਵਾ ਸਮਝੌਤਾ",
+            "ਬਿਜਲੀ ਗਰਿੱਡ"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "hi": {
+          "language": "hi",
+          "headline": "वैश्विक स्वच्छ ऊर्जा संधि पर मुहर: 48 देशों ने 2030 तक पावर ग्रिड आधुनिकीकरण का लिया संकल्प",
+          "summary": "जिनेवा में ऐतिहासिक कूटनीतिक सफलता के तहत 48 देशों ने लैंडमार्क क्लीन ग्रिड समझौते पर हस्ताक्षर किए हैं। यह संधि सीमा-पार बिजली पारेषण मानकों को अनिवार्य बनाती है और 120 अरब डॉलर का साझा फंड तैयार करती है।",
+          "seoTitle": "वैश्विक स्वच्छ ऊर्जा संधि: 48 देशों ने ग्रिड आधुनिकीकरण पर किए हस्ताक्षर",
+          "seoDescription": "जिनेवा में 48 देशों ने क्लीन ग्रिड संधि पर हस्ताक्षर किए। 120 अरब डॉलर का कोष स्थापित।",
+          "keywords": [
+            "स्वच्छ ऊर्जा संधि",
+            "जिनेवा समझौता",
+            "पावर ग्रिड"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "ur": {
+          "language": "ur",
+          "headline": "عالمی صاف توانائی معاہدے کی توثیق: 48 ممالک کا 2030 تک پاور گرڈز کو جدید بنانے کا تاریخی عزم",
+          "summary": "جنیوا میں ایک غیر معمولی سفارتی پیش رفت میں 48 صنعتی و ترقی پذیر ممالک نے تاریخی کلین گرڈ معاہدے پر دستخط کر دیے ہیں۔ یہ معاہدہ سرحد پار بجلی ترسیل کے معیار طے کرتا ہے اور 120 ارب ڈالر کا فنڈ قائم کرتا ہے۔",
+          "seoTitle": "عالمی کلین انرجی معاہدہ: 48 ممالک کی تاریخی توثیق",
+          "seoDescription": "جنیوا میں 48 ممالک نے پاور گرڈ جدید کاری کے تاریخی معاہدے کی توثیق کر دی۔",
+          "keywords": [
+            "صاف توانائی",
+            "جنیوا کانفرنس",
+            "پاور گرڈ معاہدہ"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "ar": {
+          "language": "ar",
+          "headline": "التصديق على معاهدة الطاقة النظيفة العالمية: 48 دولة تتعهد بتحديث شبكات الكهرباء بحلول عام 2030",
+          "summary": "في اختراق دبلوماسي غير مسبوق في جنيف، وقعت 48 دولة صناعية ونامية على اتفاقية الشبكة النظيفة التاريخية، والتي تنشئ صندوقاً تعاونياً بقيمة 120 مليار دولار لربط شبكات الكهرباء العابرة للحدود.",
+          "seoTitle": "معاهدة الطاقة النظيفة العالمية: 48 دولة توقع اتفاقية تاريخية",
+          "seoDescription": "توقيع معاهدة الشبكة النظيفة في جنيف بمشاركة 48 دولة وصندوق تمويل بـ 120 مليار دولار.",
+          "keywords": [
+            "طاقة نظيفة",
+            "قمة جنيف",
+            "شبكات كهربائية"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "bn": {
+          "language": "bn",
+          "headline": "আন্তর্জাতিক পরিচ্ছন্ন জ্বালানি চুক্তি অনুমোদন: ২০৩০ সালের মধ্যে গ্রিড আধুনিকায়নে ৪৮ দেশের প্রতিশ্রুতি",
+          "summary": "জেনেভায় একটি ঐতিহাসিক বহুপাক্ষিক কূটনৈতিক অগ্রগতিতে ৪৮টি শিল্পোন্নত ও উন্নয়নশীল দেশ যুগান্তকারী ক্লিন গ্রিড চুক্তিতে স্বাক্ষর করেছে। এই চুক্তি ১২০ বিলিয়ন ডলারের সহযোগী তহবিল গঠনের নির্দেশ দেয়।",
+          "seoTitle": "পরিচ্ছন্ন জ্বালানি চুক্তি: ২০৩০ সালের মধ্যে গ্রিড আধুনিকায়ন",
+          "seoDescription": "জেনেভায় ৪৮ দেশের স্বাক্ষরে ক্লিন গ্রিড চুক্তি স্বাক্ষরিত।",
+          "keywords": [
+            "জ্বালানি চুক্তি",
+            "জেনেভা সম্মেলন",
+            "বিদ্যুৎ গ্রিড"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "de": {
+          "language": "de",
+          "headline": "[Deutsch] Global Clean Energy Treaty Ratified: 48 Nations Commit to Accelerated Grid Modernization by 2030",
+          "summary": "[Deutsch] In an unprecedented multilateral diplomatic breakthrough in Geneva, 48 industrial and developing nations have signed the landmark Clean Grid Compact. The accord mandates verified cross-border power transmission standards and creates a $120 billion cooperative fund for high-voltage direct current interconnects, marking the fastest negotiated climate infrastructure framework in United Nations history.",
+          "fullBody": "[Deutsch]\n\nGENEVA — Delegations from 48 member states formally ratified the Global Clean Grid Compact late Tuesday evening, concluding nine months of intense diplomatic negotiations. The accord is recognized by international observers as a pivotal shift from voluntary emission pledges toward binding physical infrastructure deployment.\n\nThe treaty establishes legally enforceable timelines for modernizing regional electric grids to absorb intermittent renewable energy. Notably, participating nations agreed to standardize ultra-high-voltage direct current (UHVDC) interconnectors, enabling surplus solar power from equatorial zones to transmit seamlessly into heavy industrial corridors across Eurasia and Africa.\n\nDr. Elena Rostova, Special Envoy for Energy Security, emphasized during the plenary session: \"For decades, transition bottlenecks occurred not in generation, but in transmission capacity. Today's ratification removes bureaucratic tariffs on multinational clean power corridors and provides mutual stability against geopolitical energy shocks.\"\n\nA dedicated $120 billion multilateral financing pool will underwrite early-stage interconnector engineering in South Asia, North Africa, and Eastern Europe, with initial disbursements scheduled for the second quarter of 2027. Sovereign debt guarantees provided by multilateral development banks will insulate recipient nations from currency fluctuations.",
+          "seoTitle": "Global Clean Energy Treaty Ratified: 48 Nations Commit to Accelerated Grid Modernization by 2030 - Ground Zero News (German)",
+          "seoDescription": "In an unprecedented multilateral diplomatic breakthrough in Geneva, 48 industrial and developing nations have signed the landmark Clean Grid Compact. ",
+          "keywords": [
+            "news",
+            "german"
+          ],
+          "translatedAt": "2026-11-04T07:34:37.185Z"
+        }
+      }
+    },
+    {
+      "id": "gzn-lead-002",
+      "originalLanguage": "en",
+      "currentLanguage": "en",
+      "headline": "Frontier AI Reasoning Models Achieve Breakthrough in Quantum Chemical Catalyst Discovery",
+      "summary": "Computational chemistry institutes in Cambridge and Bangalore have announced the autonomous discovery of an earth-abundant nickel-iron catalyst for room-temperature water splitting, designed and validated in record time using novel neural reasoning architectures.",
+      "fullBody": "CAMBRIDGE / BANGALORE — Joint research teams at the Advanced Materials Synthesis Laboratory have demonstrated the first fully autonomous molecular discovery of an ultra-stable water-splitting catalyst utilizing frontier neural reasoning models.\n\nThe catalyst, synthesized primarily from nickel, iron, and trace manganese, achieves an overpotential of just 180 millivolts at high current densities—surpassing precious-metal benchmarks like iridium and platinum by nearly forty percent while costing less than three percent of conventional commercial catalysts.\n\nThe breakthrough is notable because the AI architecture was instructed only with foundational Schrödinger equations and thermodynamics principles, evaluating over 4.2 million combinatorial lattices in under 72 hours before synthesizing the winning candidate on robotic laboratory carousels.\n\nIndustrial production trials are already scheduled in partnership with clean hydrogen refineries in Gujarat and Rotterdam. Commercial deployment is projected to compress electrolyzer operational costs by thirty-five percent over the next decade.",
+      "category": "Artificial Intelligence",
+      "tags": [
+        "AI Chemistry",
+        "Quantum Catalysis",
+        "Green Hydrogen",
+        "Neural Models",
+        "DeepTech"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Molecular modeling lattice visualizing the AI-designed nickel-iron organometallic structure.",
+      "imageCredit": "Computational Materials Archive / CC-BY-4.0",
+      "sourceName": "Science & Advanced Tech Journal",
+      "sourceUrl": "https://www.nature.com/materials",
+      "author": "Ground Zero Science Desk",
+      "isAiGenerated": true,
+      "verificationStatus": "confirmed",
+      "status": "published",
+      "isBreaking": false,
+      "isFeatured": true,
+      "isTrending": true,
+      "viewCount": 14210,
+      "readingTimeMinutes": 3,
+      "publishedAt": "2026-11-04T06:03:49.268Z",
+      "updatedAt": "2026-11-04T06:03:49.268Z",
+      "commentsCount": 9,
+      "translations": {
+        "en": {
+          "language": "en",
+          "headline": "Frontier AI Reasoning Models Achieve Breakthrough in Quantum Chemical Catalyst Discovery",
+          "summary": "Autonomous discovery of an earth-abundant nickel-iron catalyst for room-temperature water splitting, designed in record time using neural reasoning architectures.",
+          "seoTitle": "AI Breakthrough in Quantum Chemical Catalyst Discovery",
+          "seoDescription": "Researchers design affordable water-splitting catalyst in record 72 hours using AI reasoning.",
+          "keywords": [
+            "quantum catalyst",
+            "AI chemistry",
+            "clean hydrogen"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "pa": {
+          "language": "pa",
+          "headline": "ਆਰਟੀਫੀਸ਼ੀਅਲ ਇੰਟੈਲੀਜੈਂਸ ਦੀ ਵੱਡੀ ਪ੍ਰਾਪਤੀ: ਕੈਮੀਕਲ ਉਤਪ੍ਰੇਰਕ ਦੀ ਖੋਜ ਨਾਲ ਗ੍ਰੀਨ ਹਾਈਡ੍ਰੋਜਨ ਹੋਵੇਗੀ ਸਸਤੀ",
+          "summary": "ਕੈਂਬਰਿਜ ਅਤੇ ਬੰਗਲੁਰੂ ਦੀਆਂ ਖੋਜ ਟੀਮਾਂ ਨੇ ਨਿਊਰਲ ਮਾਡਲਾਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਪਾਣੀ ਨੂੰ ਤੋੜਨ ਵਾਲੇ ਇੱਕ ਬਹੁਤ ਹੀ ਸਸਤੇ ਨਿੱਕਲ-ਆਇਰਨ ਕੈਟਾਲਿਸਟ ਦੀ ਖੋਜ ਕੀਤੀ ਹੈ।",
+          "seoTitle": "ਏਆਈ ਵੱਲੋਂ ਨਵੇਂ ਕੈਟਾਲਿਸਟ ਦੀ ਖੋਜ",
+          "seoDescription": "ਏਆਈ ਮਾਡਲਾਂ ਨੇ ਗ੍ਰੀਨ ਹਾਈਡ੍ਰੋਜਨ ਲਈ ਸਸਤਾ ਉਤਪ੍ਰੇਰਕ ਲੱਭਿਆ।",
+          "keywords": [
+            "ਏਆਈ ਖੋਜ",
+            "ਸਵੱਛ ਊਰਜਾ",
+            "ਗ੍ਰੀਨ ਹਾਈਡ੍ਰੋਜਨ"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "hi": {
+          "language": "hi",
+          "headline": "आर्टिफिशियल इंटेलिजेंस की बड़ी कामयाबी: क्वांटम केमिस्ट्री में नए कैटेलिस्ट की स्वायत्त खोज",
+          "summary": "कैम्ब्रिज और बेंगलुरु के वैज्ञानिकों ने न्यूरल रीजनिंग मॉडल के जरिए एक बेहद किफायती निकल-आयरन उत्प्रेरक तैयार किया है जो स्वच्छ हाइड्रोजन उत्पादन को क्रांतिकारी गति देगा।",
+          "seoTitle": "एआई ने खोजा हरित हाइड्रोजन के लिए क्रांतिकारी कैटेलिस्ट",
+          "seoDescription": "एआई रीजनिंग मॉडल ने 72 घंटे में पानी को विभाजित करने वाला सस्ता उत्प्रेरक विकसित किया।",
+          "keywords": [
+            "एआई कैटेलिस्ट",
+            "हरित हाइड्रोजन",
+            "क्वांटम खोज"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        }
+      }
+    },
+    {
+      "id": "gzn-lead-003",
+      "originalLanguage": "en",
+      "currentLanguage": "en",
+      "headline": "Punjab Unveils Direct Seeded Rice and Solar Tube-Well Incentive Package to Rejuvenate Water Table",
+      "summary": "The Punjab state government has rolled out a comprehensive ₹2,400 crore agrarian package, providing direct financial incentives of ₹4,000 per acre for farmers adopting Direct Seeded Rice (DSR) technology and solarized micro-drip irrigation across 18 sensitive canal commands.",
+      "fullBody": "CHANDIGARH — In a decisive structural policy move to tackle the depletion of subterranean aquifers across the Malwa and Majha belts, the Punjab administration announced the \"Kisan Jal Suraksha Mission.\"\n\nThe comprehensive package grants immediate direct-benefit transfers to cultivators transitioning away from traditional flood irrigation toward direct seeding methods and laser levelling. Under the plan, an initial tranche of 45,000 agricultural tube-wells will be converted to grid-interactive solar pump arrays equipped with automated soil moisture probes.\n\nAgricultural economists welcomed the initiative, highlighting that direct seeded paddy saves up to thirty-five percent of water while cutting electricity consumption on state grids. The policy also features dedicated MSP bonuses for diversified oilseeds, pulses, and maize crops planted along canal boundaries.\n\nSpeaking in Ludhiana, Punjab Agricultural University scientists stated: \"By aligning scientific agronomy with immediate economic rewards for farmers, Punjab is creating a replicable model of sustainable food sovereignty for the entire Indo-Gangetic plain.\"",
+      "category": "Punjab News",
+      "tags": [
+        "Punjab Agriculture",
+        "Water Conservation",
+        "DSR Farming",
+        "Solar Tube Wells",
+        "Chandigarh"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Lush paddy fields in Punjab under sustainable direct-seeded water-conservation trials.",
+      "imageCredit": "Punjab Agri Bureau / Press Information Desk",
+      "sourceName": "Punjab Regional Dispatch / Chandigarh Bureau",
+      "sourceUrl": "https://punjab.gov.in/agriculture",
+      "author": "Ground Zero Agrarian Desk",
+      "isAiGenerated": true,
+      "verificationStatus": "confirmed",
+      "status": "published",
+      "isBreaking": false,
+      "isFeatured": true,
+      "isTrending": true,
+      "viewCount": 16890,
+      "readingTimeMinutes": 4,
+      "publishedAt": "2026-11-04T05:33:49.268Z",
+      "updatedAt": "2026-11-04T05:33:49.268Z",
+      "commentsCount": 22,
+      "translations": {
+        "en": {
+          "language": "en",
+          "headline": "Punjab Unveils Direct Seeded Rice and Solar Tube-Well Incentive Package to Rejuvenate Water Table",
+          "summary": "The Punjab administration rolled out a ₹2,400 crore agrarian package offering ₹4,000 per acre for farmers adopting Direct Seeded Rice (DSR) and solarized micro-drip systems.",
+          "seoTitle": "Punjab Agrarian Package: DSR Farming & Solar Tube-Wells",
+          "seoDescription": "Punjab launches ₹2,400 crore package with ₹4,000/acre incentives to restore ground water through DSR farming.",
+          "keywords": [
+            "Punjab farming",
+            "DSR rice",
+            "water conservation Punjab"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "pa": {
+          "language": "pa",
+          "headline": "ਪੰਜਾਬ ਸਰਕਾਰ ਵੱਲੋਂ ਧਰਤੀ ਹੇਠਲੇ ਪਾਣੀ ਨੂੰ ਬਚਾਉਣ ਲਈ 2400 ਕਰੋੜ ਰੁਪਏ ਦੇ ਪੈਕੇਜ ਦਾ ਐਲਾਨ: ਝੋਨੇ ਦੀ ਸਿੱਧੀ ਬਿਜਾਈ ਲਈ 4000 ਰੁਪਏ ਪ੍ਰਤੀ ਏਕੜ",
+          "summary": "ਪੰਜਾਬ ਸਰਕਾਰ ਨੇ ਮਾਲਵਾ ਅਤੇ ਮਾਝਾ ਖੇਤਰ ਵਿੱਚ ਧਰਤੀ ਹੇਠਲੇ ਪਾਣੀ ਦੇ ਡਿੱਗ ਰਹੇ ਪੱਧਰ ਨੂੰ ਬਚਾਉਣ ਲਈ ਕਿਸਾਨ ਜਲ ਸੁਰੱਖਿਆ ਮਿਸ਼ਨ ਸ਼ੁਰੂ ਕੀਤਾ ਹੈ। ਡੀ.ਐਸ.ਆਰ. ਤਕਨੀਕ ਅਪਣਾਉਣ ਵਾਲੇ ਕਿਸਾਨਾਂ ਨੂੰ ਸਿੱਧੀ ਵਿੱਤੀ ਸਹਾਇਤਾ ਅਤੇ ਸੋਲਰ ਟਿਊਬਵੈੱਲ ਮੁਹੱਈਆ ਕਰਵਾਏ ਜਾਣਗੇ।",
+          "seoTitle": "ਪੰਜਾਬ ਖੇਤੀਬਾੜੀ ਪੈਕੇਜ: ਝੋਨੇ ਦੀ ਸਿੱਧੀ ਬਿਜਾਈ ਅਤੇ ਸੋਲਰ ਪੰਪ",
+          "seoDescription": "ਪੰਜਾਬ ਸਰਕਾਰ ਨੇ ਪਾਣੀ ਦੀ ਸੰਭਾਲ ਲਈ 4000 ਰੁਪਏ ਪ੍ਰਤੀ ਏਕੜ ਦੀ ਸਬਸਿਡੀ ਦਾ ਐਲਾਨ ਕੀਤਾ।",
+          "keywords": [
+            "ਪੰਜਾਬ ਖੇਤੀਬਾੜੀ",
+            "ਸਿੱਧੀ ਬਿਜਾਈ",
+            "ਪਾਣੀ ਦੀ ਸੰਭਾਲ",
+            "ਚੰਡੀਗੜ੍ਹ"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "hi": {
+          "language": "hi",
+          "headline": "पंजाब सरकार का बड़ा फैसला: भूजल संरक्षण के लिए 2,400 करोड़ का पैकेज, सीधी बुवाई पर 4,000 रुपये प्रति एकड़ प्रोत्साहन",
+          "summary": "पंजाब के किसानों के लिए सीधी धान बुवाई (DSR) और सौर ऊर्जा चालित ट्यूबवेल को बढ़ावा देने हेतु विशेष पैकेज की घोषणा की गई है, जिससे राज्य में गिरते भूजल स्तर को थामा जा सके।",
+          "seoTitle": "पंजाब सरकार का भूजल संरक्षण पैकेज: धान की सीधी बुवाई पर अनुदान",
+          "seoDescription": "पंजाब ने धान की सीधी बुवाई और सोलर पंपों के लिए 2400 करोड़ रुपये का राहत पैकेज घोषित किया।",
+          "keywords": [
+            "पंजाब कृषि",
+            "डीएसआर तकनीक",
+            "भूजल संरक्षण"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        }
+      }
+    },
+    {
+      "id": "gzn-lead-004",
+      "originalLanguage": "en",
+      "currentLanguage": "en",
+      "headline": "Assam Expands Brahmaputra Green Inland Waterway Hub with New Automated Container Terminals",
+      "summary": "Connecting Northeast India with the Bay of Bengal, the inland water transport authority has commissioned two automated cargo berths at Pandu port in Guwahati, slashing transit logistics costs by 28% for tea, organic agricultural produce, and light engineering exports.",
+      "fullBody": "GUWAHATI — Assam has taken a major stride in transforming the mighty Brahmaputra river into a high-capacity commercial artery with the inauguration of two fully automated container handling berths at the Pandu port terminal.\n\nThe new riverine terminals feature digital customs clearance portals, cold-storage warehousing for Assam Orthodox tea and organic ginger, and zero-emission electric cranes. Vessels with up to 3,000 deadweight tonnage can now dock year-round due to synchronized dredging of National Waterway-2.\n\nState trade representatives noted that waterborne transit via the Indo-Bangladesh Protocol Route reduces transit times to Chittagong and Kolkata by four days compared to congested highway bottlenecks along the Siliguri corridor, while cutting diesel emissions by forty percent.\n\n\"This infrastructure modernizes the economic backbone of Assam and the entire Northeast,\" state port officials confirmed during the maiden sailing of the MV Brahmaputra Star carrying 1,800 tonnes of certified organic agricultural shipments to international export hubs.",
+      "category": "Assam News",
+      "tags": [
+        "Assam Waterways",
+        "Brahmaputra Port",
+        "Guwahati",
+        "Northeast Logistics",
+        "Tea Exports"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Container freight vessels navigating the expansive Brahmaputra waterway near Guwahati.",
+      "imageCredit": "Inland Waterways Authority / Government Archive",
+      "sourceName": "Assam & Northeast Sentinel",
+      "sourceUrl": "https://assam.gov.in/transport",
+      "author": "Ground Zero Northeast Bureau",
+      "isAiGenerated": true,
+      "verificationStatus": "confirmed",
+      "status": "published",
+      "isBreaking": false,
+      "isFeatured": true,
+      "isTrending": false,
+      "viewCount": 11400,
+      "readingTimeMinutes": 3,
+      "publishedAt": "2026-11-04T04:33:49.268Z",
+      "updatedAt": "2026-11-04T04:33:49.268Z",
+      "commentsCount": 6,
+      "translations": {
+        "en": {
+          "language": "en",
+          "headline": "Assam Expands Brahmaputra Green Inland Waterway Hub with New Automated Container Terminals",
+          "summary": "Inland water transport authority commissions automated cargo berths at Pandu port in Guwahati, slashing logistics costs by 28% for Assam tea and exports.",
+          "seoTitle": "Assam Brahmaputra Waterway: Automated Pandu Port Berth Commissioned",
+          "seoDescription": "New automated container berths at Guwahati Pandu port cut logistics costs by 28% for Assam exports.",
+          "keywords": [
+            "Assam news",
+            "Brahmaputra waterway",
+            "Guwahati port"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "as": {
+          "language": "as",
+          "headline": "ব্ৰহ্মপুত্ৰৰ বুকুত নতুন যুগ: গুৱাহাটীৰ পাণ্ডু বন্দৰত স্বয়ংক্ৰিয় কন্টেইনাৰ টাৰ্মিনেল মুকলি, ৰপ্তানি ব্যয় ২৮% হ্ৰাস",
+          "summary": "অসমৰ চাহ আৰু কৃষিজাত সামগ্ৰী বিশ্ব বজাৰলৈ সহজে প্ৰেৰণ কৰাৰ বাবে গুৱাহাটীৰ পাণ্ডু বন্দৰত আধুনিক দুটা কন্টেইনাৰ টাৰ্মিনেল কাৰ্যক্ষম কৰা হৈছে।",
+          "seoTitle": "অসম ব্ৰহ্মপুত্ৰ জলপথ: পাণ্ডু বন্দৰত নতুন টাৰ্মিনেল",
+          "seoDescription": "গুৱাহাটীৰ পাণ্ডু বন্দৰত অত্যাধুনিক টাৰ্মিনেল মুকলি।",
+          "keywords": [
+            "অসম বাতৰি",
+            "ব্ৰহ্মপুত্ৰ বন্দৰ",
+            "পাণ্ডু গুৱাহাটী"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "bn": {
+          "language": "bn",
+          "headline": "আসামের ব্রহ্মপুত্রে নতুন ইতিহাস: গুয়াহাটির পাণ্ডু বন্দরে অত্যাধুনিক কন্টেইনার টার্মিনাল চালু",
+          "summary": "আসামের চা এবং কৃষিপণ্য সহজে বহির্বিশ্বে রপ্তানির লক্ষ্যে গুয়াহাটির পাণ্ডু বন্দরে আধুনিক দুটি স্বয়ংক্রিয় বার্থ উন্মোচন করা হয়েছে।",
+          "seoTitle": "আসাম ব্রহ্মপুত্র জলপথ: পাণ্ডু বন্দর টার্মিনাল উদ্বোধন",
+          "seoDescription": "আসামে জলপথ পরিবহনে নতুন দিগন্ত উন্মোচিত।",
+          "keywords": [
+            "আসাম খবর",
+            "ব্রহ্মপুত্র নৌপথ",
+            "গুয়াহাটি বন্দর"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "hi": {
+          "language": "hi",
+          "headline": "असम: ब्रह्मपुत्र जलमार्ग पर गुवाहाटी के पांडु पोर्ट पर नए स्वचालित कंटेनर टर्मिनल शुरू",
+          "summary": "पूर्वोत्तर भारत के व्यापार को नई रफ्तार देते हुए गुवाहाटी के पांडु पोर्ट पर अत्याधुनिक कंटेनर टर्मिनल चालू किए गए हैं, जिससे असम की चाय और कृषि उपज के निर्यात खर्च में 28% की कमी आएगी।",
+          "seoTitle": "असम ब्रह्मपुत्र जलमार्ग: पांडु बंदरगाह पर नए कंटेनर टर्मिनल",
+          "seoDescription": "गुवाहाटी के पांडु पोर्ट पर नए कंटेनर टर्मिनल से पूर्वोत्तर की लॉजिस्टिक्स लागत घटी।",
+          "keywords": [
+            "असम समाचार",
+            "ब्रह्मपुत्र जलमार्ग",
+            "गुवाहाटी पोर्ट"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        }
+      }
+    },
+    {
+      "id": "gzn-lead-005",
+      "originalLanguage": "en",
+      "currentLanguage": "en",
+      "headline": "Supreme Court Constitutional Bench Mandates Algorithmic Transparency in Public Sector Decisions",
+      "summary": "A unanimous five-judge bench has ruled that automated algorithmic risk assessment tools deployed by municipal and judicial authorities must provide human-interpretable rationales and audit trails to uphold fundamental constitutional due process.",
+      "fullBody": "NEW DELHI — In a landmark jurisprudence ruling with far-reaching consequences for the digital age, a five-judge Constitutional Bench of the Supreme Court has held that citizens possess an inviolable right to algorithmic transparency whenever administrative decisions impact life, livelihood, or civil liberties.\n\nThe judgment invalidates arbitrary automated scoring mechanisms utilized without published validation metrics or verifiable bias mitigation audits.\n\nChief Justice presiding noted in the unanimous opinion: \"A decision that deprives a citizen of entitlements, licences, or bail cannot take refuge behind the opaque curtain of proprietary trade secrets. Where algorithms assist the state, the state must disclose the weightings and training parameters governing that discretion.\"\n\nGovernment departments have been given six months to publish certified algorithmic impact assessments for all public-facing automated scoring and resource-allocation software.",
+      "category": "India News",
+      "tags": [
+        "Supreme Court",
+        "Constitutional Law",
+        "AI Ethics",
+        "Due Process",
+        "New Delhi"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Supreme Court of India pillars representing constitutional safeguards in algorithmic governance.",
+      "imageCredit": "Judicial Press Bureau / New Delhi",
+      "sourceName": "Press Trust of India / National Desk",
+      "sourceUrl": "https://main.sci.gov.in",
+      "author": "Ground Zero Legal Affairs Desk",
+      "isAiGenerated": true,
+      "verificationStatus": "confirmed",
+      "status": "published",
+      "isBreaking": true,
+      "isFeatured": false,
+      "isTrending": true,
+      "viewCount": 22100,
+      "readingTimeMinutes": 3,
+      "publishedAt": "2026-11-04T03:33:49.268Z",
+      "updatedAt": "2026-11-04T03:33:49.268Z",
+      "commentsCount": 18,
+      "translations": {
+        "en": {
+          "language": "en",
+          "headline": "Supreme Court Constitutional Bench Mandates Algorithmic Transparency in Public Sector Decisions",
+          "summary": "Unanimous 5-judge Supreme Court bench rules that automated AI tools deployed by state authorities must provide human-interpretable audit trails.",
+          "seoTitle": "Supreme Court Mandates Algorithmic Transparency in India",
+          "seoDescription": "Landmark SC verdict gives citizens right to explainability for government AI decisions.",
+          "keywords": [
+            "Supreme court AI ruling",
+            "algorithmic transparency India"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "hi": {
+          "language": "hi",
+          "headline": "सुप्रीम कोर्ट की संविधान पीठ का ऐतिहासिक फैसला: सरकारी फैसलों में प्रयुक्त एल्गोरिदम व AI की पारदर्शिता अनिवार्य",
+          "summary": "सुप्रीम कोर्ट की 5 जजों की संविधान पीठ ने सर्वसम्मति से व्यवस्था दी है कि सरकारी तंत्र द्वारा लिए जाने वाले किसी भी फैसले में इस्तेमाल होने वाले एआई व कंप्यूटर सिस्टम की जांच व स्पष्टीकरण जनता का मौलिक अधिकार है।",
+          "seoTitle": "सुप्रीम कोर्ट का ऐतिहासिक फैसला: सरकारी एआई में पारदर्शिता जरूरी",
+          "seoDescription": "सुप्रीम कोर्ट ने कहा कि proprietary कोड की आड़ में नागरिकों के अधिकार नहीं छीने जा सकते।",
+          "keywords": [
+            "सुप्रीम कोर्ट",
+            "एल्गोरिदम पारदर्शिता",
+            "संविधान पीठ फैसला"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        }
+      }
+    },
+    {
+      "id": "gzn-lead-006",
+      "originalLanguage": "en",
+      "currentLanguage": "en",
+      "headline": "Space Telescope Detects Atmospheric Ozone and Methane Equilibrium on Super-Earth K2-18b",
+      "summary": "Astrobiologists analyzing infrared transmission spectra have confirmed co-existing disequilibrium signatures of ozone and biogenic methane in the temperate troposphere of an exoplanet 124 light-years away.",
+      "fullBody": "BALTIMORE / PARIS — Spectroscopic confirmation of atmospheric ozone coexisting with methane in the sub-Neptune exoplanet K2-18b has provided humanity with its most intriguing non-equilibrium planetary signature to date.\n\nData collected across four transit occultations by deep-space infrared observatories reveals an atmospheric mixing ratio consistent with photochemical cycles that, in terrestrial settings, are replenished continually by organic biological processes.\n\nWhile planetary scientists urge caution—stressing that abiotic photochemical phenomena involving mantle interactions or ultraviolet stellar flares cannot yet be categorically excluded—the finding warrants immediate high-resolution spectroscopic follow-up on upcoming observation cycles.\n\n\"We are witnessing the golden epoch of exoplanet characterization,\" remarked lead astrobiologist Dr. Sarah Lin during an emergency symposium held at the International Astronomical Union. \"We are now moving from merely finding planets to reading the atmospheric chemical biographies of other worlds.\"",
+      "category": "Science",
+      "tags": [
+        "Astrobiology",
+        "Space Telescope",
+        "Exoplanets",
+        "K2-18b",
+        "Cosmology"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Artist visualization of exoplanet K2-18b illuminated by its red dwarf host star.",
+      "imageCredit": "NASA / ESA / Space Telescope Science Institute",
+      "sourceName": "International Astronomical Pool",
+      "sourceUrl": "https://www.nasa.gov/mission_pages/webb",
+      "author": "Ground Zero Astrophysics Bureau",
+      "isAiGenerated": true,
+      "verificationStatus": "confirmed",
+      "status": "published",
+      "isBreaking": false,
+      "isFeatured": false,
+      "isTrending": true,
+      "viewCount": 19800,
+      "readingTimeMinutes": 4,
+      "publishedAt": "2026-11-04T02:33:49.268Z",
+      "updatedAt": "2026-11-04T02:33:49.268Z",
+      "commentsCount": 31,
+      "translations": {
+        "en": {
+          "language": "en",
+          "headline": "Space Telescope Detects Atmospheric Ozone and Methane Equilibrium on Super-Earth K2-18b",
+          "summary": "Spectroscopy reveals intriguing atmospheric disequilibrium of ozone and methane on exoplanet K2-18b 124 light-years distant.",
+          "seoTitle": "Space Telescope Detects Ozone & Methane on Exoplanet K2-18b",
+          "seoDescription": "Astronomers detect atmospheric signatures on K2-18b 124 light-years away.",
+          "keywords": [
+            "K2-18b",
+            "space telescope",
+            "exoplanet ozone"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        }
+      }
+    },
+    {
+      "id": "gzn-lead-007",
+      "originalLanguage": "en",
+      "currentLanguage": "en",
+      "headline": "Global Chip Consortium Announces 1.4-Nanometer RibbonFET Commercial Foundry Pilot",
+      "summary": "Semiconductor manufacturers in Hsinchu and Dresden have achieved first-pass silicon yields exceeding 74% on the world's first gate-all-around 1.4nm nodes, delivering 22% computational efficiency gains for on-device edge AI processors.",
+      "fullBody": "HSINCHU / DRESDEN — In a quantum leap for microelectronics architecture, the leading international semiconductor alliance has announced pilot commercial wafer output on its 1.4-nanometer (A14) RibbonFET process.\n\nThe new node introduces backside power delivery networks (BSPDN) alongside quad-stacked nanosheet gates, allowing transistors to switch at clock frequencies above 6.2 GHz while operating at under 0.65 volts. This architecture significantly curtails heat dissipation in mobile smartphones and server racks alike.\n\nIndustry analysts estimate that initial commercial production will power flagship AI accelerators and low-power wearable neural coprocessors beginning late 2027.",
+      "category": "Technology",
+      "tags": [
+        "Semiconductors",
+        "1.4nm Process",
+        "RibbonFET",
+        "Foundry",
+        "Hardware"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Silicon wafer with microscopic RibbonFET transistor architectures under cleanroom inspection.",
+      "imageCredit": "Foundry Consortium / Public Tech Archive",
+      "sourceName": "Semiconductor Engineering Times",
+      "sourceUrl": "https://semiengineering.com",
+      "author": "Ground Zero Hardware Desk",
+      "isAiGenerated": true,
+      "verificationStatus": "confirmed",
+      "status": "published",
+      "isBreaking": false,
+      "isFeatured": false,
+      "isTrending": false,
+      "viewCount": 8940,
+      "readingTimeMinutes": 3,
+      "publishedAt": "2026-11-04T01:33:49.268Z",
+      "updatedAt": "2026-11-04T01:33:49.268Z",
+      "commentsCount": 4,
+      "translations": {
+        "en": {
+          "language": "en",
+          "headline": "Global Chip Consortium Announces 1.4-Nanometer RibbonFET Commercial Foundry Pilot",
+          "summary": "Commercial foundry pilot achieves 74% yield on 1.4nm gate-all-around silicon with backside power delivery.",
+          "seoTitle": "1.4-Nanometer RibbonFET Semiconductor Breakthrough",
+          "seoDescription": "New 1.4nm process offers 22% efficiency improvements for next-generation edge AI computing.",
+          "keywords": [
+            "1.4nm chip",
+            "semiconductor foundry",
+            "RibbonFET"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        }
+      }
+    },
+    {
+      "id": "gzn-lead-008",
+      "originalLanguage": "en",
+      "currentLanguage": "en",
+      "headline": "International Cricket Council Unveils Olympic Qualification Format for 2028 Los Angeles Games",
+      "summary": "Cricket's historic return to the Olympic Games will feature a rigorous six-team men's and women's Twenty20 tournament, with regional qualifying tournaments spanning Africa, Asia-Pacific, Europe, and the Americas over the next twenty-four months.",
+      "fullBody": "DUBAI — The International Cricket Council has finalized the competition structure and regional qualification roadmap for cricket's historic re-entry into the Olympic Games at Los Angeles 2028.\n\nBoth men's and women's editions will feature six participating nations competing in a high-intensity single-group round-robin followed by medal playoffs at a state-of-the-art temporary stadium in Pomona, California.\n\nHost nation United States receives automatic qualification slots, while the top three ranked teams on the ICC T20I world standings cutoff date will earn direct entry. The remaining two spots will be decided via fiercely contested inter-continental qualification tournaments in early 2028.",
+      "category": "Sports",
+      "tags": [
+        "Cricket",
+        "Olympics 2028",
+        "ICC",
+        "LA28",
+        "T20"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Cricket stadium illuminated under floodlights for championship Twenty20 action.",
+      "imageCredit": "ICC Media / Tournament Media Pool",
+      "sourceName": "World Sports Desk",
+      "sourceUrl": "https://www.icc-cricket.com",
+      "author": "Ground Zero Sports Bureau",
+      "isAiGenerated": false,
+      "verificationStatus": "confirmed",
+      "status": "published",
+      "isBreaking": false,
+      "isFeatured": false,
+      "isTrending": true,
+      "viewCount": 15300,
+      "readingTimeMinutes": 3,
+      "publishedAt": "2026-11-04T00:33:49.268Z",
+      "updatedAt": "2026-11-04T00:33:49.268Z",
+      "commentsCount": 11,
+      "translations": {
+        "en": {
+          "language": "en",
+          "headline": "International Cricket Council Unveils Olympic Qualification Format for 2028 Los Angeles Games",
+          "summary": "Rigorous six-team T20 Olympic format announced for cricket re-entry at LA28 with host USA and direct qualifiers.",
+          "seoTitle": "Cricket at LA 2028 Olympics: ICC Unveils 6-Team Qualification Format",
+          "seoDescription": "ICC outlines the qualification pathway for cricket's return to the Olympic Games in Los Angeles.",
+          "keywords": [
+            "cricket olympics 2028",
+            "ICC LA28",
+            "olympic cricket format"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        }
+      }
+    },
+    {
+      "id": "gzn-lead-009",
+      "originalLanguage": "en",
+      "currentLanguage": "en",
+      "headline": "Exclusive Report: Global Whistleblower Network Exposes Cross-Border Digital Carbon Credit Fraud",
+      "summary": "A multi-month Ground Zero investigative probe examining 380,000 blockchain-registered forestry offsets reveals phantom carbon claims totaling $420 million across unregulated voluntary carbon brokers in three continents.",
+      "fullBody": "LONDON / NAIROBI / MUMBAI — A joint investigation by Ground Zero News Investigative Consortium has uncovered extensive fabricated claims within international voluntary carbon offset exchanges.\n\nOver thirty-five percent of inspected reforestation tracts in sub-Saharan Africa and Southeast Asia registered as \"active high-density canopy\" were found to be either commercial monoculture timber plantations already slated for harvesting, or arid scrubland that had sustained zero planting activity.\n\nFinancial records cross-referenced with satellite synthetic-aperture radar (SAR) telemetry demonstrate that multinational conglomerates purchased millions of metric tonnes in bogus emission write-downs to market consumer products as \"100% Carbon Neutral.\"\n\nInternational financial regulatory watchdogs have initiated formal inquiry proceedings following our submission of the documentary dossier.",
+      "category": "Exclusive Reports",
+      "tags": [
+        "Investigative Scoop",
+        "Carbon Offsets",
+        "Environmental Fraud",
+        "Whistleblower",
+        "Global Probe"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80",
+      "imageCaption": "Satellite inspection overlays contrasting claimed reforestation sectors against actual terrain data.",
+      "imageCredit": "Ground Zero Investigative Bureau / SAR Telemetry",
+      "sourceName": "Ground Zero Investigative Unit",
+      "sourceUrl": "https://groundzeronews.org/investigations/carbon-dossier",
+      "author": "Devraj Barua & GZN Special Projects",
+      "isAiGenerated": false,
+      "verificationStatus": "investigative",
+      "status": "published",
+      "isBreaking": true,
+      "isFeatured": true,
+      "isTrending": true,
+      "viewCount": 34500,
+      "readingTimeMinutes": 6,
+      "publishedAt": "2026-11-03T23:13:49.268Z",
+      "updatedAt": "2026-11-03T23:13:49.268Z",
+      "commentsCount": 48,
+      "translations": {
+        "en": {
+          "language": "en",
+          "headline": "Exclusive Report: Global Whistleblower Network Exposes Cross-Border Digital Carbon Credit Fraud",
+          "summary": "Ground Zero investigation reveals $420 million phantom forestry carbon claims across voluntary offsets.",
+          "seoTitle": "Exclusive: $420M Carbon Credit Fraud Exposed by Ground Zero News",
+          "seoDescription": "Investigation uncovers fabricated carbon offset schemes marketed as neutral emissions.",
+          "keywords": [
+            "carbon fraud",
+            "investigative journalism",
+            "ground zero exclusive"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "pa": {
+          "language": "pa",
+          "headline": "ਵਿਸ਼ੇਸ਼ ਜਾਂਚ ਰਿਪੋਰਟ: ਗਰਾਊਂਡ ਜ਼ੀਰੋ ਨਿਊਜ਼ ਵੱਲੋਂ 42 ਕਰੋੜ ਡਾਲਰ ਦੇ ਫਰਜ਼ੀ ਕਾਰਬਨ ਕ੍ਰੈਡਿਟ ਘੁਟਾਲੇ ਦਾ ਪਰਦਾਫਾਸ਼",
+          "summary": "ਸਾਡੀ ਵਿਸ਼ੇਸ਼ ਜਾਂਚ ਟੀਮ ਨੇ ਸੈਟੇਲਾਈਟ ਡਾਟਾ ਰਾਹੀਂ ਖੁਲਾਸਾ ਕੀਤਾ ਹੈ ਕਿ ਰੁੱਖ ਲਗਾਉਣ ਦੇ ਨਾਮ 'ਤੇ ਬਹੁ-ਰਾਸ਼ਟਰੀ ਕੰਪਨੀਆਂ ਵੱਲੋਂ ਅਰਬਾਂ ਰੁਪਏ ਦੇ ਝੂਠੇ ਸਰਟੀਫਿਕੇਟ ਵੇਚੇ ਜਾ ਰਹੇ ਸਨ।",
+          "seoTitle": "ਗਰਾਊਂਡ ਜ਼ੀਰੋ ਵਿਸ਼ੇਸ਼ ਰਿਪੋਰਟ: ਕਾਰਬਨ ਕ੍ਰੈਡਿਟ ਘੁਟਾਲਾ",
+          "seoDescription": "ਜਾਂਚ ਰਿਪੋਰਟ ਵਿੱਚ ਫਰਜ਼ੀ ਕਾਰਬਨ ਆਫਸੈੱਟ ਯੋਜਨਾਵਾਂ ਦਾ ਪਰਦਾਫਾਸ਼।",
+          "keywords": [
+            "ਵਿਸ਼ੇਸ਼ ਜਾਂਚ",
+            "ਕਾਰਬਨ ਘੁਟਾਲਾ",
+            "ਗਰਾਊਂਡ ਜ਼ੀਰੋ ਨਿਊਜ਼"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        },
+        "hi": {
+          "language": "hi",
+          "headline": "एक्सक्लूसिव रिपोर्ट: ग्राउंड जीरो न्यूज ने किया 420 मिलियन डॉलर के फर्जी कार्बन क्रेडिट घोटाले का खुलासा",
+          "summary": "ग्राउंड जीरो न्यूज की खोजी टीम ने सैटेलाइट डेटा और व्हिसलब्लोअर दस्तावेजों के जरिए अंतरराष्ट्रीय स्वैच्छिक कार्बन बाजार में चल रहे बड़े खेल को बेनकाब किया है।",
+          "seoTitle": "ग्राउंड जीरो एक्सक्लूसिव: 420 मिलियन डॉलर का कार्बन क्रेडिट घोटाला",
+          "seoDescription": "खोजी रिपोर्ट में खुलासा: कागजों पर दिखाए गए जंगल, बेचे गए फर्जी कार्बन क्रेडिट।",
+          "keywords": [
+            "खोजी पत्रकारिता",
+            "कार्बन घोटाला",
+            "ग्राउंड जीरो एक्सक्लूसिव"
+          ],
+          "translatedAt": "2026-11-04T07:33:49.268Z"
+        }
+      }
+    }
+  ],
+  "feeds": [
+    {
+      "id": "feed-reuters-world",
+      "name": "Reuters World News",
+      "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
+      "category": "World News",
+      "language": "en",
+      "isActive": true,
+      "lastFetchedAt": "2026-11-04T07:21:49.268Z",
+      "itemsFetchedCount": 42,
+      "statusMessage": "Operational (200 OK)"
+    },
+    {
+      "id": "feed-india-national",
+      "name": "Press Trust of India / National Desk",
+      "url": "https://news.google.com/rss/headlines/section/topic/NATION?hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "India News",
+      "language": "en",
+      "isActive": true,
+      "lastFetchedAt": "2026-11-04T07:18:49.268Z",
+      "itemsFetchedCount": 38,
+      "statusMessage": "Operational (200 OK)"
+    },
+    {
+      "id": "feed-tech-ai",
+      "name": "Ars Technica & Frontier Tech",
+      "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-US&gl=US&ceid=US:en",
+      "category": "Artificial Intelligence",
+      "language": "en",
+      "isActive": true,
+      "lastFetchedAt": "2026-11-04T07:13:49.268Z",
+      "itemsFetchedCount": 29,
+      "statusMessage": "Operational (200 OK)"
+    },
+    {
+      "id": "feed-economy-markets",
+      "name": "Global Financial & Trade Monitor",
+      "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en",
+      "category": "Economy",
+      "language": "en",
+      "isActive": true,
+      "lastFetchedAt": "2026-11-04T07:08:49.268Z",
+      "itemsFetchedCount": 31,
+      "statusMessage": "Operational (200 OK)"
+    },
+    {
+      "id": "feed-punjab-tribune",
+      "name": "Punjab Regional Dispatch",
+      "url": "https://news.google.com/rss/search?q=Punjab+news&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Punjab News",
+      "language": "en",
+      "isActive": true,
+      "lastFetchedAt": "2026-11-04T06:58:49.268Z",
+      "itemsFetchedCount": 19,
+      "statusMessage": "Operational (200 OK)"
+    },
+    {
+      "id": "feed-assam-tribune",
+      "name": "Assam & Northeast Sentinel",
+      "url": "https://news.google.com/rss/search?q=Assam+Northeast+news&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Assam News",
+      "language": "en",
+      "isActive": true,
+      "lastFetchedAt": "2026-11-04T06:53:49.268Z",
+      "itemsFetchedCount": 16,
+      "statusMessage": "Operational (200 OK)"
+    }
+  ],
+  "ads": [
+    {
+      "id": "ad-top-banner",
+      "title": "Global Satellite Intelligence Solutions",
+      "location": "header_banner",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&h=180&q=80",
+      "targetUrl": "https://groundzeronews.org/sponsor/satellite-intelligence",
+      "isActive": true,
+      "impressions": 12480,
+      "clicks": 432,
+      "sponsorName": "AeroGeo Systems",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "ad-sidebar-1",
+      "title": "Secure Cloud Infrastructure for Newsrooms",
+      "location": "sidebar",
+      "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=600&h=400&q=80",
+      "targetUrl": "https://groundzeronews.org/sponsor/cloud-newsroom",
+      "isActive": true,
+      "impressions": 8940,
+      "clicks": 285,
+      "sponsorName": "QuantumCore Cloud",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    }
+  ],
+  "settings": {
+    "siteName": "Ground Zero News",
+    "tagline": "Truth First. News Everywhere.",
+    "contactEmail": "contact@groundzeronews.org",
+    "automationIntervalMinutes": 15,
+    "autoPublishAiNews": false,
+    "defaultLanguages": [
+      "en",
+      "pa",
+      "hi",
+      "ur",
+      "bn",
+      "ar",
+      "fr",
+      "es"
+    ],
+    "aiModelName": "gemini-3.8-flash",
+    "pushNotificationsEnabled": true,
+    "adSenseClientId": "ca-pub-9281726354182910",
+    "lastAutoRunAt": "2026-11-04T07:33:49.268Z"
+  },
+  "users": [
+    {
+      "id": "user-super-1",
+      "name": "Gurinder Singh",
+      "email": "editor-in-chief@groundzeronews.org",
+      "role": "super_admin",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80"
+    },
+    {
+      "id": "user-editor-1",
+      "name": "Aisha Al-Mansoor",
+      "email": "aisha.worlddesk@groundzeronews.org",
+      "role": "editor",
+      "avatarUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&q=80"
+    },
+    {
+      "id": "user-journo-1",
+      "name": "Devraj Barua",
+      "email": "devraj.investigations@groundzeronews.org",
+      "role": "journalist",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80"
+    }
+  ],
+  "logs": [
+    {
+      "id": "log-init-1",
+      "timestamp": "2026-11-04T07:33:50.131Z",
+      "taskType": "rss_ingest",
+      "status": "success",
+      "source": "Automated Seed Registry",
+      "details": "System initialized with 9 verified multi-lingual investigative reports and 6 live RSS wire feeds.",
+      "articlesProcessed": 9,
+      "durationMs": 820
+    }
+  ],
+  "comments": [
+    {
+      "id": "comm-1",
+      "articleId": "gzn-lead-001",
+      "userName": "Major Jaswinder Brar (Retd.)",
+      "content": "Groundbreaking analysis on the transmission infrastructure. Without UHVDC links, renewable power is routinely curtailed.",
+      "createdAt": "2026-11-04T07:03:50.131Z",
+      "status": "approved",
+      "likes": 12
+    },
+    {
+      "id": "comm-2",
+      "articleId": "gzn-lead-009",
+      "userName": "Dr. Katherine Vance",
+      "content": "Commendable investigative reporting. The voluntary carbon offset market has needed forensic scrutiny of this depth for years.",
+      "createdAt": "2026-11-04T05:58:50.131Z",
+      "status": "approved",
+      "likes": 24
+    }
+  ]
+}
